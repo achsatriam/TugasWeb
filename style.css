@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(247, 247, 247);
+  }
+  
+  h1 {
+    color: navy;
+    text-align: center;
+    margin: 100px;
+    padding: 30px;
+    
+  }
+
+  p {
+    text-align: center;
+  }
+
+h1 {border-style :solid;}
+
+#okayu {
+    margin-left: "50%";
+    /* margin-right: auto; */
+}
+.center{
+    text-align: center;
+}
+
